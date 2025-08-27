@@ -1,0 +1,11 @@
+ {
+  "customer_name": "Alice",
+  "email": "alice@example.com",
+  "query": "My order is delayed",
+  "priority": "high",
+  "ticket_id": "T12345",
+  "solution_score": 95,
+  "decision": "Resolved automatically",
+  "response": "We apologize for the delay. Your order is on the way."
+}
+
